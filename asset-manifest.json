@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Shoe_Brand_Page/static/css/main.1f236695.css",
+    "main.js": "/Shoe_Brand_Page/static/js/main.d925d7bb.js",
+    "static/js/787.635aedaa.chunk.js": "/Shoe_Brand_Page/static/js/787.635aedaa.chunk.js",
+    "index.html": "/Shoe_Brand_Page/index.html",
+    "main.1f236695.css.map": "/Shoe_Brand_Page/static/css/main.1f236695.css.map",
+    "main.d925d7bb.js.map": "/Shoe_Brand_Page/static/js/main.d925d7bb.js.map",
+    "787.635aedaa.chunk.js.map": "/Shoe_Brand_Page/static/js/787.635aedaa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f236695.css",
+    "static/js/main.d925d7bb.js"
+  ]
+}
